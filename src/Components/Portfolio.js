@@ -30,7 +30,7 @@ const Portfolio = ({ data }) => {
       <div className="row">
         <div className="twelve columns collapsed">
           <h1>Check Out Some of My Works.</h1>
-
+          <p>Under Construction...</p>
           <div
             id="portfolio-wrapper"
             className="bgrid-quarters s-bgrid-thirds cf"
