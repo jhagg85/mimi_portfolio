@@ -73,7 +73,7 @@ const Header = ({ data }) => {
             <p>
               <span>{occupation}.</span>
             </p>
-            <p>{description}.</p>
+            <p>"{description}."</p>
           </h3>
           <hr />
           <ul className="social">{networks}</ul>

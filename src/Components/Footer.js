@@ -20,12 +20,12 @@ const Footer = ({ data }) => {
           <ul className="social-links">{networks}</ul>
 
           <ul className="copyright">
-            <li>
+            {/* <li>
               Made by{" "}
               <a title="Joseph Garganera" href="jag-portfolio.netlify.app">
                 Joseph Garganera
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
         <div id="go-top">
